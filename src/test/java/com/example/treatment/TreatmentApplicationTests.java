@@ -8,6 +8,7 @@ class TreatmentApplicationTests {
 
     @Test
     void contextLoads() {
+        // ignored
     }
 
 }
